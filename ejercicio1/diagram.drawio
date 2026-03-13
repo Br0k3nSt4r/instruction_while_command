@@ -1,0 +1,68 @@
+<mxfile host="65bd71144e">
+    <diagram id="n9OFWNh-Oa7L_3pa4c1c" name="Page-1">
+        <mxGraphModel dx="759" dy="690" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="27" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="16" target="22">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="&lt;div style=&quot;color: rgb(204, 204, 204); background-color: rgb(31, 31, 31); font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;span style=&quot;color: #6a9955;&quot;&gt;#input&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#1F1F1F;" vertex="1" parent="1">
+                    <mxGeometry x="365" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="22" target="23">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="&lt;div style=&quot;color: rgb(204, 204, 204); background-color: rgb(31, 31, 31); font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;span style=&quot;color: rgb(156, 220, 254);&quot;&gt;password&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#1F1F1F;" vertex="1" parent="1">
+                    <mxGeometry x="365" y="120" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="37" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="23" target="33">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="41" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="23" target="40">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="610" y="260"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="23" value="&lt;div style=&quot;color: rgb(204, 204, 204); background-color: rgb(31, 31, 31); font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;span style=&quot;color: rgb(156, 220, 254);&quot;&gt;password&lt;/span&gt;&lt;span style=&quot;color: rgb(212, 212, 212);&quot;&gt;!=&lt;/span&gt;&lt;span style=&quot;color: rgb(212, 212, 212);&quot;&gt;python&lt;/span&gt;&lt;span style=&quot;color: rgb(181, 206, 168);&quot;&gt;123&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#1F1F1F;" vertex="1" parent="1">
+                    <mxGeometry x="323" y="220" width="205" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="24" target="23">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="288.75" y="350" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="280" y="410"/>
+                            <mxPoint x="280" y="260"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="24" value="&lt;div style=&quot;color: rgb(204, 204, 204); background-color: rgb(31, 31, 31); font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;div style=&quot;color: rgb(204, 204, 204); line-height: 19px;&quot;&gt;&lt;span style=&quot;color: rgb(220, 220, 170);&quot;&gt;print&lt;/span&gt;&lt;span style=&quot;background-color: light-dark(rgb(31, 31, 31), rgb(210, 210, 210)); color: rgb(204, 204, 204);&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;background-color: light-dark(rgb(31, 31, 31), rgb(210, 210, 210)); color: rgb(206, 145, 120);&quot;&gt;&quot;ERROR! &lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(204, 204, 204); line-height: 19px;&quot;&gt;&lt;span style=&quot;color: rgb(206, 145, 120);&quot;&gt;Contraseña INCORRECTA&quot;&lt;/span&gt;&lt;span style=&quot;color: rgb(204, 204, 204);&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#1F1F1F;" vertex="1" parent="1">
+                    <mxGeometry x="328" y="370" width="195" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" style="edgeStyle=none;html=1;" edge="1" parent="1" source="33" target="24">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" value="&lt;div style=&quot;color: rgb(204, 204, 204); font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;span style=&quot;color: rgb(197, 134, 192);&quot;&gt;while&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="396" y="320" width="57.5" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="42" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="40" target="43">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="430" y="480" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="610" y="480"/>
+                            <mxPoint x="426" y="480"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="40" value="&lt;div style=&quot;color: rgb(204, 204, 204); background-color: rgb(31, 31, 31); font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;div style=&quot;color: rgb(204, 204, 204); line-height: 19px;&quot;&gt;&lt;span style=&quot;color: rgb(220, 220, 170);&quot;&gt;print&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(204, 204, 204); line-height: 19px;&quot;&gt;&lt;span style=&quot;color: rgb(204, 204, 204);&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: rgb(206, 145, 120);&quot;&gt;&quot;ACCESO&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(204, 204, 204); line-height: 19px;&quot;&gt;&lt;span style=&quot;color: rgb(206, 145, 120);&quot;&gt;GARANTIZADO&quot;&lt;/span&gt;&lt;span style=&quot;color: rgb(204, 204, 204);&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#1F1F1F;" vertex="1" parent="1">
+                    <mxGeometry x="550" y="310" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="43" value="&lt;div style=&quot;color: rgb(204, 204, 204); background-color: rgb(31, 31, 31); font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;span style=&quot;color: #6a9955;&quot;&gt;#output&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#1F1F1F;fontColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="365.5" y="520" width="120" height="80" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
